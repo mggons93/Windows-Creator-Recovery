@@ -84,4 +84,5 @@ This PowerShell utility allows you to create or restore a Windows recovery envir
 
 ---
 **Author / Autor:** Soporte y Aportes / Mggons
+---
 **Version / Versión:** 1.7
