@@ -2,12 +2,12 @@
 
 ## Imagen de Muestra / Sample Image
 <p align="center">
-<a href=></a><img src="https://github.com/mggons93/Mggons/blob/main/Img.png"/>
+<a href=></a><img src="https://i.ibb.co/VWC8fJZf/Captura-de-pantalla-2025-06-04-165954.png"/>
 </p>
 
 ## Imagen de Muestra / Sample Image
 <p align="center">
-<a href=></a><img src="https://github.com/mggons93/Mggons/blob/main/Img.png"/>
+<a href=></a><img src="https://i.ibb.co/cSSBFtHY/Captura-de-pantalla-2025-06-04-165912.png"/>
 </p>
 
 
