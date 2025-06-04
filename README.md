@@ -1,5 +1,16 @@
 # Windows Recovery using HDD / Recuperación de Windows usando HDD
 
+## Imagen de Muestra / Sample Image
+<p align="center">
+<a href=></a><img src="https://github.com/mggons93/Mggons/blob/main/Img.png"/>
+</p>
+
+## Imagen de Muestra / Sample Image
+<p align="center">
+<a href=></a><img src="https://github.com/mggons93/Mggons/blob/main/Img.png"/>
+</p>
+
+
 ## Español
 
 ### Descripción
