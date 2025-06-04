@@ -4,7 +4,7 @@
 
 ### Descripción
 
-Esta utilidad en PowerShell permite crear o restaurar un entorno de recuperación de Windows directamente en el disco duro local, especialmente útil cuando no se dispone de medios externos como USB o DVD. El script ofrece una interfaz gráfica sencilla para seleccionar la partición de destino y la imagen ISO de Windows, automatizando todo el proceso de preparación y configuración del entorno de recuperación.
+Esta utilidad permite crear o restaurar un entorno de recuperación de Windows directamente en el disco duro local, especialmente útil cuando no se dispone de medios externos como USB o DVD. El script ofrece una interfaz gráfica sencilla para seleccionar la partición de destino y la imagen ISO de Windows, automatizando todo el proceso de preparación y configuración del entorno de recuperación.
 
 ---
 
@@ -46,7 +46,7 @@ Esta utilidad en PowerShell permite crear o restaurar un entorno de recuperació
 
 ### Overview
 
-This PowerShell utility allows you to create or restore a Windows recovery environment directly on your local hard drive, ideal for situations where you do not have access to external media (USB/DVD). The script provides a simple graphical interface to select the target partition and Windows ISO image, automating the entire process of preparing and configuring the recovery environment.
+This utility allows you to create or restore a Windows recovery environment directly on your local hard drive, ideal for situations where you do not have access to external media (USB/DVD). The script provides a simple graphical interface to select the target partition and Windows ISO image, automating the entire process of preparing and configuring the recovery environment.
 
 ---
 
